@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>URL Shortener</h1>
-
+  <h2>Moved <a href="https://github.com/gbagush/MiniLink">here</a></h2>
   <img src="https://i.ibb.co/F63BFJB/download.png" alt="Website Demo" />
 </div>
 
