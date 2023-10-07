@@ -2,7 +2,7 @@
 <div align="center">
   <h1>URL Shortener</h1>
   <img src="https://i.ibb.co/F63BFJB/download.png" alt="Website Demo" />
-  <h2>Moved <a href="https://github.com/gbagush/MiniLink">here</a></h2>
+  <h2>New Version <a href="https://github.com/gbagush/MiniLink">Here</a></h2>
 </div>
 
 [![Contributors][contributors-shield]][contributors-url]
